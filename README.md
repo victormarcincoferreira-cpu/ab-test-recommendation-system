@@ -120,7 +120,7 @@ Não implementar o novo sistema neste momento.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/Recommender-system-ab-test.git
 ```
 
 2. Instale as dependências:
